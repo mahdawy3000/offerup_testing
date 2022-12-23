@@ -15,3 +15,4 @@ Then user in the Price range max window put $200
 Then user verifies page displayes  "Go" button next to the price filter
 And user clicks on "GO" button
 Then user verifies "$200 and under"filter selection green screen appeared on the top and products displyed got filtered accordingly.
+updated Daria
